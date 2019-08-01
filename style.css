@@ -23,6 +23,10 @@ a {
 	width: 800px;
 }
 
+.logo {
+	 padding-left: 500px;
+}
+
 .border {
 	
 	border-style: solid;
