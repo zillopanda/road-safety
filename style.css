@@ -44,9 +44,11 @@ a {
   	background: blue;
 
 	color: white;
-	width: 800px;
-	
-	
+	width: 800px;	
+}
+
+#box2 a:link, #box2 a:visited {
+    color: #00e699;
 }
 
 #box3 {
