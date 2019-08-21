@@ -8,6 +8,10 @@ body {
 	
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 a {
 	color: blue;
 	text-decoration: none;
